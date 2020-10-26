@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="re_location" type="re_location" name="re_location" output="screen">
+	<param name="map_file_name" value="/home/botsurpass/yolo_ws/src/re_location/test/test1.png"/>
+	
+    </node>
+</launch>
